@@ -21,4 +21,6 @@ Studying Computer Science at Balochistan University.<br>-  Love coding and explo
 ---
 [![](https://visitcount.itsvg.in/api?id=zubairscriptlab&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![](https://visitcount.itsvg.in/api?id=ZubairScriptLab&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
